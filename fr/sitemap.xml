@@ -3,23 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wayne1756.github.io/fr/blog/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://wayne1756.github.io/fr/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://wayne1756.github.io/pl/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://wayne1756.github.io/pt/about/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://wayne1756.github.io/blog/"
+                href="https://wayne1756.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://wayne1756.github.io/fr/blog/"
+                href="https://wayne1756.github.io/fr/about/"
                 />
   </url>
   
   <url>
     <loc>https://wayne1756.github.io/fr/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -73,53 +82,7 @@
   </url>
   
   <url>
-    <loc>https://wayne1756.github.io/fr/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://wayne1756.github.io/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://wayne1756.github.io/fr/tags/css/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://wayne1756.github.io/fr/blog/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://wayne1756.github.io/blog/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://wayne1756.github.io/fr/blog/markdown-syntax/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://wayne1756.github.io/fr/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://wayne1756.github.io/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://wayne1756.github.io/fr/tags/html/"
-                />
-  </url>
-  
-  <url>
     <loc>https://wayne1756.github.io/fr/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -173,38 +136,7 @@
   </url>
   
   <url>
-    <loc>https://wayne1756.github.io/fr/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://wayne1756.github.io/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://wayne1756.github.io/fr/tags/markdown/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://wayne1756.github.io/fr/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://wayne1756.github.io/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://wayne1756.github.io/fr/categories/syntax/"
-                />
-  </url>
-  
-  <url>
     <loc>https://wayne1756.github.io/fr/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -254,136 +186,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://wayne1756.github.io/fr/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://wayne1756.github.io/fr/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://wayne1756.github.io/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://wayne1756.github.io/fr/tags/themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://wayne1756.github.io/fr/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://wayne1756.github.io/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://wayne1756.github.io/fr/categories/themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://wayne1756.github.io/fr/blog/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://wayne1756.github.io/blog/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://wayne1756.github.io/fr/blog/rich-content/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://wayne1756.github.io/fr/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://wayne1756.github.io/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://wayne1756.github.io/fr/tags/privacy/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://wayne1756.github.io/fr/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://wayne1756.github.io/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://wayne1756.github.io/fr/tags/shortcodes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://wayne1756.github.io/fr/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://wayne1756.github.io/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://wayne1756.github.io/fr/tags/emoji/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://wayne1756.github.io/fr/blog/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://wayne1756.github.io/blog/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://wayne1756.github.io/fr/blog/emoji-support/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://wayne1756.github.io/fr/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://wayne1756.github.io/pl/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://wayne1756.github.io/pt/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://wayne1756.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://wayne1756.github.io/fr/about/"
                 />
   </url>
   

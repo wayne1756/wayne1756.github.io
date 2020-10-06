@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shit on Wayne1756</title>
+    <link>https://wayne1756.github.io/tags/shit/</link>
+    <description>Recent content in shit on Wayne1756</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wayne1756.github.io/tags/shit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my world</title>
+      <link>https://wayne1756.github.io/blog/new-post/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wayne1756.github.io/blog/new-post/</guid>
+      <description>測試測試測試中..
+Welcome To My World!!! </description>
+    </item>
+    
+  </channel>
+</rss>
