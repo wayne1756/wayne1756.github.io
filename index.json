@@ -1,9 +1,15 @@
 [{
+    "title": "Second Post",
+    "date": "",
+    "description": "Sample article showcasing basic Markdown syntax and formatting for HTML elements.",
+    "body": "This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.\n",
+    "ref": "/blog/second_post/"
+  },{
     "title": "Welcome to my world",
     "date": "",
-    "description": "I'll talk a lot shit here",
+    "description": "test test test..",
     "body": "測試測試測試中..\nWelcome To My World!!! ",
-    "ref": "/blog/new-post/"
+    "ref": "/blog/new_post/"
   },{
     "title": "Markdown Syntax Guide",
     "date": "",
