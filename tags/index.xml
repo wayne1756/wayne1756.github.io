@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Wayne&#39;s Blog</title>
+    <title>Tags on 純屬筆記</title>
     <link>https://wayne1756.github.io/tags/</link>
-    <description>Recent content in Tags on Wayne&#39;s Blog</description>
+    <description>Recent content in Tags on 純屬筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wayne1756.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wayne1756.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>markdown</title>
+      <link>https://wayne1756.github.io/tags/markdown/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wayne1756.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>https://wayne1756.github.io/tags/syntax/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wayne1756.github.io/tags/syntax/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>css</title>
       <link>https://wayne1756.github.io/tags/css/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://wayne1756.github.io/tags/css/</guid>
       <description></description>
@@ -19,45 +37,18 @@
     <item>
       <title>html</title>
       <link>https://wayne1756.github.io/tags/html/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://wayne1756.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>https://wayne1756.github.io/tags/markdown/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://wayne1756.github.io/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>themes</title>
       <link>https://wayne1756.github.io/tags/themes/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://wayne1756.github.io/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>new</title>
-      <link>https://wayne1756.github.io/tags/new/</link>
-      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://wayne1756.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://wayne1756.github.io/tags/test/</link>
-      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://wayne1756.github.io/tags/test/</guid>
       <description></description>
     </item>
     

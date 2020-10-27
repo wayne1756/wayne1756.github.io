@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>markdown on Wayne&#39;s Blog</title>
+    <title>markdown on 純屬筆記</title>
     <link>https://wayne1756.github.io/tags/markdown/</link>
-    <description>Recent content in markdown on Wayne&#39;s Blog</description>
+    <description>Recent content in markdown on 純屬筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wayne1756.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wayne1756.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second Post</title>
-      <link>https://wayne1756.github.io/blog/second_post/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <title>Markdown 基本語法</title>
+      <link>https://wayne1756.github.io/blog/markdown/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wayne1756.github.io/blog/second_post/</guid>
-      <description>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</description>
+      <guid>https://wayne1756.github.io/blog/markdown/</guid>
+      <description>標題 # 大標題 ## 中標題 ### 小標題 ... ###### 最小標題 字體 **粗體** *斜體* 引用 &amp;gt; 引用內容 排列 &amp;lt;!-- 序號一致為 1. 即可自動排序 --&amp;gt; 1. 有序排列1 1. 有序排列2 1. 有序排列3 &amp;lt;!-- 有序及無序排列皆可使用縮排排序(4個空白鍵+星號 or tab鍵+星號) --&amp;gt; * 無序排列1 * 縮排排序 * 無序排列2 * 無序排列3 超連結 [請輸入文字](URL) 圖片 ![](圖檔路徑 or URL) 程式碼 `單行程式碼` ```多行程式碼``` 表格 &amp;lt;!-- markdown 語法無法使儲存格合併，製作複雜表格使用圖片較佳 --&amp;gt; | table | table | Table | |-------|-------|-------| | | | | </description>
     </item>
     
     <item>
